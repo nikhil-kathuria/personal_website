@@ -1,4 +1,4 @@
-baseURL = "https://nikhilkathuria.github.io/"
+baseURL = "https://nikhil-kathuria.github.io/personal_website/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Nikhil Kathuria"
@@ -62,7 +62,7 @@ pygmentsCodefencesGuessSyntax = true
   
   [[params.socialIcons]]
   icon = "fa-brands fa-x"
-  title = "GitHub"
+  title = "X"
   url = "https://x.com/nikhil_kathuria"
 
 
